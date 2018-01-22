@@ -1,0 +1,5 @@
+c:\users\amar.mishra\documents\visual studio 2012\Projects\TestApp\TestApp\bin\TestApp.dll
+c:\users\amar.mishra\documents\visual studio 2012\Projects\TestApp\TestApp\bin\TestApp.pdb
+c:\users\amar.mishra\documents\visual studio 2012\Projects\TestApp\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+c:\users\amar.mishra\documents\visual studio 2012\Projects\TestApp\TestApp\obj\Debug\TestApp.dll
+c:\users\amar.mishra\documents\visual studio 2012\Projects\TestApp\TestApp\obj\Debug\TestApp.pdb
